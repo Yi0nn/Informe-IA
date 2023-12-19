@@ -2,7 +2,7 @@
 
 ## 💟Participantes💟
 
-Este proyecto fue creado por:
+Este informe fue creado por:
 
 - ♡ Isabela Rosero
 - ♡ Stefhania Noguera
